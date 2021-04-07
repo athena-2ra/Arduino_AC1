@@ -1,0 +1,21 @@
+• oii meu nome é Rafaella, eu tenho 16 anos e amo cozinhar;
+• no meu tempo livre gosto de ver series, andar com a minha cachorra e pintar 
+• eu e a Dome fomos responsaveis pela documentação do projeto 
+
+• oii meu nome é Domenica, tenho 15 anos e amo one direction
+• no meu tempo livre eu gosto de cantar, tocar violão e pintar e namoro a 1 ano
+• eu e a Rafa fomos responsáveis pela documentação do projeto
+
+• oii meu nome é Isabella, eu tenho 16 anos eu amo desenhar
+• no meu tempo livre eu gosto de ver series e antes da quarentena eu gostava de sair com o meus amigos 
+• eu estou responsavel por montar o tinkercad
+
+DOCUMENTAÇÃO DO PROJETO:
+- primeiramente colocamos um botão de desligar e um de ligar o led vermelho
+- adicionamos a leitura do sensor de temperatura e teste, a ação de que, se chegar a 15*C o led azul se acende automaticamente, e ele só
+irá se apagar quando a temperatura abaixar
+- inserimos também a leitura do sensor de luminosidade, que quando um valor acima de 5 e a luminosidade ambiente estar alta,a led verde vai continuar acesa 
+até a luz diminuir.
+
+Conclusões finais:
+O grupo Athena fica feliz em participar desse projeto, entendemos a importância de saber usar os códigos e trabalhar em equipe. Obrigada pela oportunidade.
